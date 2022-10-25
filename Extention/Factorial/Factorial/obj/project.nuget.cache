@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fG1YvuBA3xTGO36b719ySYqde7M553MJkbTLG4/NFn0llQaYRshybFSoJGK5yGFrdBm6COK8dntXMRqzhVf/8A==",
+  "dgSpecHash": "iSX5NhCBTL2jNukBCe8v+mSj7Qmyit2JexRTxmJiEF+44d2lSAIhYFI8cqDFuwy902rTQAR07ubepCCjk7LWcg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Extention\\Factorial\\Factorial\\Factorial.csproj",
+  "projectFilePath": "C:\\Users\\Anar\\Desktop\\Static-Struct-Extension-Enums\\Extention\\Factorial\\Factorial\\Factorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

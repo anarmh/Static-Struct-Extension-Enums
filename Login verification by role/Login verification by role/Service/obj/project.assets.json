@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anar\\Desktop\\Static-Struct-Extension-Enums\\Extention\\Factorial\\Factorial\\Factorial.csproj",
-      "projectName": "Factorial",
-      "projectPath": "C:\\Users\\Anar\\Desktop\\Static-Struct-Extension-Enums\\Extention\\Factorial\\Factorial\\Factorial.csproj",
+      "projectUniqueName": "C:\\Users\\Anar\\Desktop\\Static-Struct-Extension-Enums\\Login verification by role\\Login verification by role\\Service\\Service.csproj",
+      "projectName": "Service",
+      "projectPath": "C:\\Users\\Anar\\Desktop\\Static-Struct-Extension-Enums\\Login verification by role\\Login verification by role\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\Anar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anar\\Desktop\\Static-Struct-Extension-Enums\\Extention\\Factorial\\Factorial\\obj\\",
+      "outputPath": "C:\\Users\\Anar\\Desktop\\Static-Struct-Extension-Enums\\Login verification by role\\Login verification by role\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Anar\\AppData\\Roaming\\NuGet\\NuGet.Config",

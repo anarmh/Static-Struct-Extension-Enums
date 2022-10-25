@@ -1,0 +1,17 @@
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\bin\Debug\netcoreapp3.1\Login verification by role.exe
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\bin\Debug\netcoreapp3.1\Login verification by role.deps.json
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\bin\Debug\netcoreapp3.1\Login verification by role.runtimeconfig.json
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\bin\Debug\netcoreapp3.1\Login verification by role.runtimeconfig.dev.json
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\bin\Debug\netcoreapp3.1\Login verification by role.dll
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\bin\Debug\netcoreapp3.1\Login verification by role.pdb
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.AssemblyInfo.cs
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.dll
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.pdb
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.genruntimeconfig.cache
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Login verification by role\obj\Debug\netcoreapp3.1\Login verification by role.csproj.CopyComplete

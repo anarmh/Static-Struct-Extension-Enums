@@ -1,0 +1,10 @@
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Anar\Desktop\Login verification by role\Login verification by role\Service\obj\Debug\netcoreapp3.1\Service.pdb
